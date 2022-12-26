@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Coda+Caption:800');
+
+* {
+    box-sizing: border-box;
+}
+
+.container {
+    width: 70%;
+    margin: auto;
+    text-align: center;
+}
+
+
+
+body {
+    background-color: #393E46;
+}
+
+h1 {
+    margin: 30px;
+    font-family: 'Press Start 2P', cursive;
+    text-shadow: 5px 0 #232931;
+    font-size: 2rem;
+    color: #4ECCA3;
+}
+
+p {
+    font-size: 1rem;
+    color: #4ECCA3;
+    font-family: 'Press Start 2P', cursive;
+    margin: 30px;
+
+}
+
+.play-sec{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    border: 30px double black;
+    padding: 20px;
+}
+img {
+    width: 80%;
+    border: 30px double black;
+    padding: 20px;
+    border-radius: 30px;
+    z-index: 100;
+    backdrop-filter: blur(2rem);
+    background: linear-gradient(to left top, rgba(255, 255, 255, 0.185), rgba(255, 255, 255, 0));
+}
+
+
+img:hover {
+    z-index: 1000;
+    box-shadow: rgb(0, 0, 0) 0px 20px 30px -10px;
+    transform: scale(1.1);
+}
+
+footer {
+    margin-top: 5%;
+    color: #EEEEEE;
+    text-align: center;
+    font-family: 'Indie Flower', cursive;
+
+}
