@@ -25,19 +25,26 @@ _THIS WEBSITE CONTAINS 5 PAGES FOR 5 SECTIONS :_
 >>> 1. **ABOUT US PAGE** -> _Details about us page_
 >>> 1. **CONTACT US PAGE** -> _Contact information page_
 
-_**Now, Let us take a closer look into each of this sections ...**_ 👇
->>![PARALLAX-SCROLLING_WEB_TEMPLATE-_DEMO_AdobeExpress](https://user-images.githubusercontent.com/97678993/206866436-f10f708b-52be-4e44-ab8a-c5581b8b098d.gif)
+![7a21d558cb3818aab31e1f843e963744180dcad4](https://user-images.githubusercontent.com/97678993/209709636-87332483-71ca-41e1-908c-369f89bbabef.gif)
 
 
->This Template includes 3 sections : 
->>1 . LANDING SECTION :
->>>![Screenshot 2022-12-10 220232](https://user-images.githubusercontent.com/97678993/206865309-a379a0e6-b4ca-4644-bf52-bdfa6853697d.png)
+_**Now, Let us take a closer look into each of these sections ...**_ 👇
 
->>2 . READ & WORK SECTION :
->>>![Screenshot 2022-12-10 220310](https://user-images.githubusercontent.com/97678993/206865334-df21e247-e071-400c-a3ee-47645a22f58b.png)
 
->>3 . CONTACT SECTION : 
->>>![Screenshot 2022-12-10 220348](https://user-images.githubusercontent.com/97678993/206865386-8958239b-e37d-4092-8c23-4bdb53303c67.png)
+>> _The first one is the home page ... _
+
+
+![28 12 2022_00 15 37_REC](https://user-images.githubusercontent.com/97678993/209709713-25bdd333-b536-4753-b7ab-3e286bd91a8f.gif)
+
+
+>> _Now, the 2nd one is the play  page ... _
+
+
+>> _The 3rd one is the read page ... _
+
+>> _And...the 4th one is the home page ... _
+
+>> _Finally, the last one is the home page ... _
 
  _Feel free to work out your own landing web page designs using this web template and try forking and  making use of it, thereby contributing to this repository!_
  
